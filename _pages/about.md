@@ -40,12 +40,12 @@ In addition, I’m researching the role of **GenAI** in transforming education. 
 - **Master’s Degree** in Computer Engineering, summa cum laude (2023) – University of Calabria, Italy.
 - **Bachelor’s Degree** in Computer Engineering (2021) – University of Calabria, Italy.
 
+![image_2](images/parigi.jpg)
+![image_3](images/eind.jpg)
+
 ## Study abroad
 
-![image_2](images/parigi.jpg){: .align-right width="300ppx"} 
 - **Participant student** in the Generative Modeling Summer School (Gemss) at TU/e, Eindhoven, Netherlands, June 2024.
-
-![image_3](images/eind.jpg){: .align-right width="300ppx"} 
 - **Visiting student** at the Telecom Sud Paris Data Intelligence and Communication Engineering Lab (Paris, France), under the supervision of Prof. Noel Cresi and Prof.Roberto Minerva from February 2023 to June 2023. Main research activity was focused on vehicle trajectory prediction with the aim to enhance traffic management, reduce congestion, and improve overall transportation efficiency, developing Machine Learning models.
 
 ## Memberships
