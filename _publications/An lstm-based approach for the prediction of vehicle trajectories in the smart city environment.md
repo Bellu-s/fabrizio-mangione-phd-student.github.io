@@ -6,6 +6,4 @@ permalink: /research/An lstm-based approach for the prediction of vehicle trajec
 paperurl: 'files/Master_thesis_Fabrizio_Mangione_signed.pdf'
 citation: ''
 ---
-<div style="text-align: justify;">
 Master’s thesis, University of Calabria, 2023.
-</div>
