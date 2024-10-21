@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Fabrizio Mangione PhD. student in Information and Communication Technologies (ICT)"
 title_separator          : "-"
 name                     : &name "Fabrizio Mangione"
-description              : &description "PhD student in ICT @Unical | Machine Learning and AI engineer | Exchange student at @Institut Polytechnique de Paris"
+description              : &description "PhD student in ICT at Unical | Machine Learning and AI engineer | Exchange student at Institut Polytechnique de Paris"
 url                      : https://bellu-s.github.io/fabrizio-mangione-phd-student.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mangione_img.jpg"
   name             : "Fabrizio Mangione"
   pronouns         : "he/him"  
-  bio              : "PhD student in ICT at University of Calabria \n Machine Learning and AI engineer \n Exchange student at Institut Polytechnique de Paris"
+  bio              : "PhD student in ICT at Unical \n Machine Learning and AI engineer \n Exchange student at Institut Polytechnique de Paris"
   location         : "Rende, Italy"
   employer         : "University of Calabria (Unical)"
   uri              : # URL
@@ -82,7 +82,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   magazines:
-    title: 'Magazines Papers'
+    title: 'Magazine Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

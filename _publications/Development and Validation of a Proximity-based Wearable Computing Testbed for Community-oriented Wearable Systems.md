@@ -2,7 +2,7 @@
 title: "Development and Validation of a Proximity-based Wearable Computing Testbed for Community-oriented Wearable Systems"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Development and Validation of a Proximity-based Wearable Computing Testbed for Community-oriented Wearable Systems
 excerpt: ''
 date: 2024/3/11
 venue: '2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)'
