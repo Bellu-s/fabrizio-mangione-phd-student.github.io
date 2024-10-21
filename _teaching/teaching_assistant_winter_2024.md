@@ -4,7 +4,7 @@ collection: teaching
 type: "Post graduate course"
 permalink: /teaching/teaching_assistant_winter_2024
 venue: "University of Calabria, DICES dept."
-date: Winter 2024
+date: 2024/3/22
 location: "Rende, Italy"
 ---
 
