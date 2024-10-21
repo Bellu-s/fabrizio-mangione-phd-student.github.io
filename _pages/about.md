@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+<div style="text-align: justify;">
 
+## About Me
 I’m currently pursuing a PhD in Information and Communication Technologies (ICT) at the University of Calabria, specifically in the Department of Computer, Modeling, Electronic, and System Engineering (DIMES). Under the guidance of **Professor Giancarlo Fortino**—an IEEE Fellow and a highly cited researcher—I focus on cutting-edge innovations in **Artificial Intelligence (AI)**, **Generative AI (GenAI)**, **Internet of Things (IoT)**, and **Edge Intelligence (EI)**.
 
 ## My Journey
@@ -49,3 +50,5 @@ I am a proud **student member of the IEEE Society**, continually engaging with a
 ---
 
 Feel free to explore my work and reach out if you share my passion for AI, IoT, or cutting-edge technologies that are shaping our future.
+
+</div>
