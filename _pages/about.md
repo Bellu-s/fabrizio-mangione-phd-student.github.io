@@ -43,11 +43,15 @@ In addition, I’m researching the role of **GenAI** in transforming education. 
 ## Study abroad
 
 - **Participant student** in the Generative Modeling Summer School (Gemss) at TU/e, Eindhoven, Netherlands, June 2024.
-- **Visiting Student** at Telecom Sud Paris from February to June 2023.
+- **Visiting student** at the Telecom Sud Paris Data Intelligence and Communication Engineering Lab (Paris, France), under the supervision of Prof. Noel Cresi and Prof.Roberto Minerva from February 2023 to June 2023. Main research activity was focused on vehicle trajectory prediction with the aim to enhance traffic management, reduce congestion, and improve overall transportation efficiency, developing Machine Learning models.
 
 ## Memberships
 
 I am a proud **student member of the IEEE Society**, continually engaging with a global network of researchers and innovators to push the frontiers of technology.
+
+## Awards
+Master student of “Percorso di Eccellenza". 
+The “Percorso di Eccellenza” aims to enrich the personal education of students particularly deserving through the expansion of general culture, the deepening of technical-scientific knowledge and the improvement of professional skills. “Percorso di Eccellenza” consists of educational activities in addition to those of the course of study in which the student is enrolled.
 
 ---
 
