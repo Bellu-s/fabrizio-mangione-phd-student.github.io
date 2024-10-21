@@ -6,8 +6,7 @@ permalink: /publication/An lstm-based approach for the prediction of vehicle tra
 excerpt: ''
 date: 2024/11
 venue: ''
-slidesurl: ''
-paperurl: ''
+paperurl: 'files/Master_thesis_Fabrizio_Mangione_signed.pdf'
 citation: ''
 ---
 Master’s thesis, University of Calabria, 2023.

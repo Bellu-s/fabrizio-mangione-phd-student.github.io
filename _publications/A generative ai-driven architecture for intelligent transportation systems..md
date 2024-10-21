@@ -6,7 +6,6 @@ permalink: /publication/A generative ai-driven architecture for intelligent tran
 excerpt: ''
 date: 2023/10
 venue: 'Accepted at IEEE 10th World Forum on Internet of Things, 2024'
-slidesurl: ''
 paperurl: ''
 citation: ''
 ---

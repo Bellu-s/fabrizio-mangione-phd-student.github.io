@@ -3,10 +3,8 @@ title: "Development and Validation of a Proximity-based Wearable Computing Testb
 collection: publications
 category: conferences
 permalink: /publication/Development and Validation of a Proximity-based Wearable Computing Testbed for Community-oriented Wearable Systems
-excerpt: ''
 date: 2024/3/11
 venue: '2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)'
-slidesurl: ''
 paperurl: 'https://arxiv.org/pdf/2406.02311'
 citation: 'Q. Li, F. Mangione, F. Porreca, R. Gravina and G. Fortino, "Development and Validation of a Proximity-based Wearable Computing Testbed for Community-oriented Wearable Systems," 2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops), Biarritz, France, 2024, pp. 45-50, doi: 10.1109/PerComWorkshops59983.2024.10502607. keywords: {Data privacy;Conferences;Motion detection;Sensor systems;Robustness;Security;Servers;Wearable Computing;Proximity-Based;Smart Communities;Testbed;Edge computing}'
 ---
