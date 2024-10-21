@@ -4,7 +4,7 @@ collection: publications
 category: books
 permalink: /publication/An lstm-based approach for the prediction of vehicle trajectories in the smart city environment
 excerpt: ''
-date: 
+date: 2024/11
 venue: ''
 slidesurl: ''
 paperurl: ''

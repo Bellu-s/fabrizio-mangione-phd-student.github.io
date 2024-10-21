@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/A generative ai-driven architecture for intelligent transportation systems
 excerpt: ''
-date: 
+date: 2023/10
 venue: 'Accepted at IEEE 10th World Forum on Internet of Things, 2024'
 slidesurl: ''
 paperurl: ''
