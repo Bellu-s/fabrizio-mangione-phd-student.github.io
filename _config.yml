@@ -74,7 +74,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
 # Research Category - The following the list of research categories and their headings
-research_category:
+publication_category:
   magazines:
     title: 'Magazine Papers'
   conferences:
@@ -259,7 +259,7 @@ defaults:
   # _research
   - scope:
       path: ""
-      type: research
+      type: publication
     values:
       layout: single
       author_profile: true

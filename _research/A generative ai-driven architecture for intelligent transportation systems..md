@@ -1,8 +1,8 @@
 ---
 title: "A generative ai-driven architecture for intelligent transportation systems"
-collection: research
+collection: publication
 category: conferences
-permalink: /research/A generative ai-driven architecture for intelligent transportation systems
+permalink: /publication/A generative ai-driven architecture for intelligent transportation systems
 venue: 'Accepted at IEEE 10th World Forum on Internet of Things, 2024'
 paperurl: ''
 citation: ''

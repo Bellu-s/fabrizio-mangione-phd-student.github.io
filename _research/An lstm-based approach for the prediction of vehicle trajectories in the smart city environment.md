@@ -1,8 +1,8 @@
 ---
 title: "An lstm-based approach for the prediction of vehicle trajectories in the smart city environment"
-collection: research
+collection: publication
 category: books
-permalink: /research/An lstm-based approach for the prediction of vehicle trajectories in the smart city environment
+permalink: /publication/An lstm-based approach for the prediction of vehicle trajectories in the smart city environment
 paperurl: 'files/Master_thesis_Fabrizio_Mangione_signed.pdf'
 citation: ''
 ---
