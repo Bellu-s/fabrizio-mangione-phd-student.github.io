@@ -7,32 +7,45 @@ redirect_from:
   - /about.html
 ---
 
-**Fabrizio Mangione** is a PhD student in Information and Communication Technologies (ICT) at Department of Computer, Modeling, Electronic, and System Engineering (DIMES) at University of Calabria (Rende,Italy), under the supervision of Professor Giancarlo Fortino, IEEE fellow and highly cited researcher by Clarivate.  
+## About Me
 
-His research interest includes **Artificial Intelligence (AI)**, **Generative AI (GenAI)**, **Internet of Things (IoT)**, **Edge Intelligence (EI)**.
+I’m currently pursuing a PhD in Information and Communication Technologies (ICT) at the University of Calabria, specifically in the Department of Computer, Modeling, Electronic, and System Engineering (DIMES). Under the guidance of **Professor Giancarlo Fortino**—an IEEE Fellow and a highly cited researcher—I focus on cutting-edge innovations in **Artificial Intelligence (AI)**, **Generative AI (GenAI)**, **Internet of Things (IoT)**, and **Edge Intelligence (EI)**.
 
-He received the Master degree in Computer Engineering summa cum laude in 2023, from the University of Calabria with a master thesis entitled **An lstm-based approach for the prediction of vehicle trajectories in the smart city environment** (Prof. Giancarlo Fortino, Prof Noel Crespi, Prof. Roberto Minerava, Prof. Claudio Savaglio).
+## My Journey
 
-**Fabrizio Mangione** was a visiting student at the Telecom Sud Paris (FR) in 2023, under the supervision of Professor Noel Crespi and Professor Roberto Minerva. During his research period abroad, he focused on the application of AI, particularly deep learning models, in the context of smart cities. These studies are further expanded during his PhD program and culminated in 3 scientific papers published in top-level international journals and conference proceedings.
+In 2023, I graduated summa cum laude with a Master’s degree in Computer Engineering from the University of Calabria. My thesis, **An LSTM-based Approach for the Prediction of Vehicle Trajectories in the Smart City Environment**, explored how AI can reshape urban transportation systems. I had the privilege to work under the mentorship of leading experts like **Professors Giancarlo Fortino**, **Noel Crespi**, **Roberto Minerva**, and **Claudio Savaglio**.
 
-**Fabrizio Mangione** is currently a student member of IEEE society.
+During my time as a **visiting student** at Telecom Sud Paris (France), I delved into AI applications for smart cities, with a special focus on predicting vehicle trajectories to improve traffic management and reduce congestion. This research experience inspired my ongoing work, which has already led to three publications in top-tier international journals and conferences.
 
-Education
-===
-• **Master degree** in Computer Engineering summa cum laude in 2023 at the University of Calabria, Italy.
+## What I’m Passionate About
 
-• **Bachelor degree** in Computer Engineering in 2021 at the University of Calabria, Italy.
+I’m deeply passionate about addressing the challenges that lie at the intersection of **AI**, **IoT**, and **Edge Intelligence**. My current research tackles some of the most exciting problems in these fields, from **e-Health** and **Smart Transportation** to **Industry 4.0**. 
 
-Period of study abroad
-===
-• **Participant student** at Generative Modeling Summer School (TU/e, Eindhoven, Nederland), June
-2024
+### Gen-AI and the Future of Technology
 
-• **Visiting student** at the Telecom Sud Paris Data Intelligence and Communication Engineering Lab
-(TSP, Paris, France), under the supervision of Prof. Noel Cresi and Prof. Roberto Minerva. February 2023-June 2023. Main research activity was focused on vehicle trajectory prediction with the
-aim to enhance traffic management, reduce congestion, and improve overall transportation efficiency, developing Machine Learning models.
+I'm particularly interested in pushing the boundaries of **Generative AI** by developing innovative models that increase the accuracy, scalability, and contextual awareness of AI systems. These models are designed to revolutionize automation and decision-making processes across various sectors.
 
-Research interest
-===
-His research primarily centers on addressing critical challenges in Gen-AI, with a strong emphasis on the fields of IoT, Smart Cities, and EI. His main contributions lie in the analysis, design, implementation, and validation of methodologies and tools that enable the creation of intelligent, interoperable, and adaptive systems. These efforts have been experimentally applied to emerging areas such as e-Health, Smart Transportation, and
-Industry 4.0. In addition, he focuses on developing advanced Gen-AI models, exploring innovative architectures and techniques to enhance AI systems’ accuracy, scalability, and contextual awareness. These models seek to advance the state of automation and decision-making across various domains. His work in IoT highlights the application of Gen-AI to improve the efficiency, security, and interoperability of connected devices. By leveraging AI-driven solutions, his research optimizes real-time data processing and fosters the development of adaptive, self-learning IoT ecosystems. Curriculum Vitae of Fabrizio Mangione He also explores the creation of Generative Digital Twins, virtual replicas that simulate and predict the behavior of physical systems. His work in this area aims to offer more dynamic, adaptive, and data-driven solutions for sectors such as manufacturing, urban planning, and healthcare. Furthermore, his research extends to the role of Gen-AI in education, where he investigates how AI can personalize learning experiences and develop intelligent tutoring systems. His studies focus on leveraging AI-generated content and adaptive platforms to enhance student engagement and customize educational resources to individual needs.
+In the **IoT** space, my focus is on enhancing the efficiency, security, and interoperability of connected devices. By applying AI-driven solutions, I aim to create real-time, adaptive, self-learning ecosystems that optimize data processing and enhance operational intelligence.
+
+### Digital Twins & AI in Education
+
+I also explore the fascinating world of **Generative Digital Twins**—virtual replicas that predict and simulate the behavior of physical systems. This work opens up new possibilities for dynamic, adaptive solutions in **manufacturing**, **urban planning**, and **healthcare**.
+
+In addition, I’m researching the role of **Generative AI** in transforming education. I believe AI has the potential to personalize learning experiences, creating **intelligent tutoring systems** that adapt to the needs of individual students. Through AI-generated content, I aim to reshape how educational resources engage and support learners.
+
+## Education & Global Experience
+
+- **Master’s Degree** in Computer Engineering, summa cum laude (2023) – University of Calabria, Italy.
+- **Bachelor’s Degree** in Computer Engineering (2021) – University of Calabria, Italy.
+
+I’ve also expanded my global perspective through:
+- **Generative Modeling Summer School** at TU/e, Eindhoven, Netherlands (June 2024).
+- **Visiting Student** at Telecom Sud Paris (February–June 2023), where I focused on AI-powered traffic prediction models.
+
+## Memberships
+
+I am a proud **student member of the IEEE Society**, continually engaging with a global network of researchers and innovators to push the frontiers of technology.
+
+---
+
+Feel free to explore my work and reach out if you share my passion for AI, IoT, or cutting-edge technologies that are shaping our future.
