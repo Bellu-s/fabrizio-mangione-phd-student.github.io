@@ -2,7 +2,7 @@
 title: "Teaching assistant"
 collection: teaching
 type: "Post graduate course"
-permalink: /teaching/teaching-assistant-winter-2024
+permalink: /teaching/teaching_assistant_winter_2024
 venue: "University of Calabria, DICES dept."
 date: Winter 2024
 location: "Rende, Italy"
