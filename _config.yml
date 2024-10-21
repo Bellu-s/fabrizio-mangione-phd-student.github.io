@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fabrizio Mangione PhD. student in Information and Communication Technologies (ICT)"
+title                    : "Fabrizio Mangione PhD. student in ICT"
 title_separator          : "-"
 name                     : &name "Fabrizio Mangione"
 description              : &description "PhD student in ICT at Unical | Machine Learning and AI engineer | Exchange student at Institut Polytechnique de Paris"
@@ -24,7 +24,7 @@ author:
   avatar           : "mangione_img.jpg"
   name             : "Fabrizio Mangione"
   pronouns         : "he/him"  
-  bio              : "PhD student in ICT at Unical \n Machine Learning and AI engineer \n Exchange student at Institut Polytechnique de Paris"
+  bio              : "PhD student in ICT at University of Calabria \n Machine Learning and AI engineer"
   location         : "Rende, Italy"
   employer         : "University of Calabria (Unical)"
   uri              : # URL
