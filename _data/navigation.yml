@@ -21,7 +21,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url:  cv #/files/Fabrizio Mangione CV.pdf
+    url:  /files/Fabrizio_Mangione_CV.pdf
     
   #- title: "Guide"
   #  url: /markdown/
