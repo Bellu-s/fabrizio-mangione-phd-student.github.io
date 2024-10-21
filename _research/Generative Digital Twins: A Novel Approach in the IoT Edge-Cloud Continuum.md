@@ -1,6 +1,6 @@
 ---
 title: "Generative Digital Twins: A Novel Approach in the IoT Edge-Cloud Continuum"
-collection: publication
+collection: publications
 category: magazines
 permalink: /publication/Generative Digital Twins A Novel\: Approach in the IoT Edge-Cloud Continuum
 date: 2024/8/16
