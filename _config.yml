@@ -73,7 +73,7 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-# Research Category - The following the list of research categories and their headings
+# Publication Category - The following the list of publication categories and their headings
 publication_category:
   magazines:
     title: 'Magazine Papers'
@@ -216,7 +216,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  research:
+  publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -256,7 +256,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _publication
   - scope:
       path: ""
       type: publication
