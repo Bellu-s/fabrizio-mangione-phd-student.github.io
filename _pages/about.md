@@ -42,9 +42,8 @@ In addition, I’m researching the role of **GenAI** in transforming education. 
 
 ## Study abroad
 
-- **Participant student** in the Generative Modeling Summer School (Gemss) at TU/e, ![image_3](images/eind.jpg){: .align-right width="300ppx"} Eindhoven, Netherlands, June 2024.
-- **Visiting student** at the Telecom Sud Paris Data Intelligence and Communication Engineering Lab (Paris, France), ![image_2](images/parigi.jpg) {: .align-right width="300ppx"}
-under the supervision of Prof. Noel Cresi and Prof.Roberto Minerva from February 2023 to June 2023. Main research activity was focused on vehicle trajectory prediction with the aim to enhance traffic management, reduce congestion, and improve overall transportation efficiency, developing Machine Learning models.
+- **Participant student** in the Generative Modeling Summer School (Gemss) at TU/e, ![image_3](images/eind.jpg){: .align-right width="500ppx"} Eindhoven, Netherlands, June 2024.
+- **Visiting student** at the Telecom Sud Paris Data Intelligence and Communication Engineering Lab (Paris, France),![image_2](images/parigi.jpg){: .align-right width="500ppx"} under the supervision of Prof. Noel Cresi and Prof.Roberto Minerva from February 2023 to June 2023. Main research activity was focused on vehicle trajectory prediction with the aim to enhance traffic management, reduce congestion, and improve overall transportation efficiency, developing Machine Learning models.
 
 ## Memberships
 
