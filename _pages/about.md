@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## About Me
+
 <div align="justify">
 
 I’m currently pursuing a [PhD in Information and Communication Technologies (ICT)](https://dottorato.dimes.unical.it/) at the [University of Calabria](https://www.unical.it/) (Rende, Italy), in the [Department of Computer, Modeling, Electronic, and System Engineering (DIMES)](https://dimes.unical.it/), under the guidance of **Professor Giancarlo Fortino**, IEEE Fellow and highly cited researcher by Clarivate. 
