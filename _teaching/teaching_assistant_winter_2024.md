@@ -8,7 +8,9 @@ date: 2024/3/22
 location: "Rende, Italy"
 ---
 
+<div align="justify">
 The following outlines the structure of a course on the use of Generative AI in education, detailing each lesson's focus and objectives. This curriculum is designed to introduce participants to practical tools and techniques, delve into ethical considerations, and offer hands-on exercises tailored to various educational levels.
+</div>
 
 # Generative AI for Education - First Lesson
 1. **Introduction to Tools - Mangione Exercise**
