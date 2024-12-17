@@ -8,10 +8,23 @@ redirect_from:
 ---
 
 ## About Me
-<div align="center">
-I’m currently pursuing a [PhD in Information and Communication Technologies (ICT)](https://dottorato.dimes.unical.it/) at the [University of Calabria](https://www.unical.it/) (Rende, Italy), in the [Department of Computer, Modeling, Electronic, and System Engineering (DIMES)](https://dimes.unical.it/), under the guidance of **Professor Giancarlo Fortino**, IEEE Fellow and highly cited researcher by Clarivate. 
+<div align="justify">
+<p>
+    I’m currently pursuing a 
+    <a href="https://dottorato.dimes.unical.it/">PhD in Information and Communication Technologies (ICT)</a>
+    at the 
+    <a href="https://www.unical.it/">University of Calabria</a> (Rende, Italy), in the 
+    <a href="https://dimes.unical.it/">Department of Computer, Modeling, Electronic, and System Engineering (DIMES)</a>, 
+    under the guidance of <strong>Professor Giancarlo Fortino</strong>, IEEE Fellow and highly cited researcher by Clarivate.
+</p>
+<p>
+    My current interests focus on cutting-edge innovations in 
+    <strong>Artificial Intelligence (AI)</strong>, 
+    <strong>Generative AI (GenAI)</strong>, 
+    <strong>Internet of Things (IoT)</strong>, and 
+    <strong>Edge Intelligence (EI)</strong>.
+</p>
 
-My current interests focus on cutting-edge innovations in **Artificial Intelligence (AI)**, **Generative AI (GenAI)**, **Internet of Things (IoT)**, and **Edge Intelligence (EI)**.
 </div>
 ## My Journey
 
