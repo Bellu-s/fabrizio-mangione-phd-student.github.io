@@ -8,12 +8,8 @@ date: 2024/3/22
 location: "Rende, Italy"
 ---
 
-<div align="justify">
-The following outlines the structure of a course on the use of Generative AI in education, detailing each lesson's focus and objectives. This curriculum is designed to introduce participants to practical tools and techniques, delve into ethical considerations, and offer hands-on exercises tailored to various educational levels.
-</div>
-
 # Generative AI for Education - First Lesson
-1. **Introduction to Tools - Mangione Exercise**
+1. **Introduction to Tools**
 2. **Prompt Examples** - ChatGPT in Everyday Life
 3. **ChatGPT Use Cases** - Applications of ChatGPT for School Activities
 
@@ -27,7 +23,6 @@ The following outlines the structure of a course on the use of Generative AI in 
 7. **Reasoning**
 8. **Ethical and Social Implications of Generative Artificial Intelligence**
 9. **Ethical and Social Issues in the Use of Generative AI**
-   - Privacy, Bias, and Copyright
 
 # Hands-On - Third Lesson
 1. **AI Ranked by IQ**
