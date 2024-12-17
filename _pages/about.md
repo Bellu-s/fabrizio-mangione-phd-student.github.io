@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ## About Me
-![image_1](images/ai img.jpg){: .align-right width="150ppx"} I’m currently pursuing a [PhD in Information and Communication Technologies (ICT)](https://dottorato.dimes.unical.it/) at the
-[University of Calabria](https://www.unical.it/) (Rende, Italy), in the [Department of Computer, Modeling, Electronic, and System Engineering (DIMES)](https://dimes.unical.it/), under the guidance of **Professor Giancarlo Fortino**, IEEE Fellow and highly cited researcher by Clarivate. 
+<div align="center">
+I’m currently pursuing a [PhD in Information and Communication Technologies (ICT)](https://dottorato.dimes.unical.it/) at the [University of Calabria](https://www.unical.it/) (Rende, Italy), in the [Department of Computer, Modeling, Electronic, and System Engineering (DIMES)](https://dimes.unical.it/), under the guidance of **Professor Giancarlo Fortino**, IEEE Fellow and highly cited researcher by Clarivate. 
 
 My current interests focus on cutting-edge innovations in **Artificial Intelligence (AI)**, **Generative AI (GenAI)**, **Internet of Things (IoT)**, and **Edge Intelligence (EI)**.
-
+</div>
 ## My Journey
 
 In 2023, I graduated summa cum laude with a Master’s degree in Computer Engineering from the University of Calabria. My thesis, **An LSTM-based Approach for the Prediction of Vehicle Trajectories in the Smart City Environment**, explored how AI can reshape urban transportation systems. I had the privilege to work under the mentorship of leading experts like **Professors Giancarlo Fortino**, **Noel Crespi**, **Roberto Minerva**, and **Claudio Savaglio**.
@@ -42,8 +42,8 @@ In addition, I’m researching the role of **GenAI** in transforming education. 
 
 ## Study abroad
 
-- **Participant student** in the Generative Modeling Summer School (Gemss) at TU/e, ![image_3](images/eind.jpg){: .align-right width="150ppx"} Eindhoven, Netherlands, June 2024.
-- **Visiting student** at the Telecom Sud Paris Data Intelligence and Communication Engineering Lab (Paris, France),![image_2](images/parigi.jpg){: .align-right width="150ppx"} under the supervision of Prof. Noel Cresi and Prof.Roberto Minerva from February 2023 to June 2023. Main research activity was focused on vehicle trajectory prediction with the aim to enhance traffic management, reduce congestion, and improve overall transportation efficiency, developing Machine Learning models.
+- **Participant student** in the Generative Modeling Summer School (Gemss) at TU/e, Eindhoven, Netherlands, June 2024.
+- **Visiting student** at the Telecom Sud Paris Data Intelligence and Communication Engineering Lab (Paris, France), under the supervision of Prof. Noel Cresi and Prof.Roberto Minerva from February 2023 to June 2023. Main research activity was focused on vehicle trajectory prediction with the aim to enhance traffic management, reduce congestion, and improve overall transportation efficiency, developing Machine Learning models.
 
 ## Memberships
 
